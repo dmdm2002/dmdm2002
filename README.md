@@ -1,7 +1,7 @@
 # Hi there 👋
 ## 소개
 - 이름: 김정수
-- 군필여부: 병역특례
+- 군필여부: 미필 (전문연구요원 대기)
 - Email (1): kjungsoo6180@gmail.com
 - Email (2): k_jungsoo@dgu.ac.kr
 - Git: github.com/dmdm2002
