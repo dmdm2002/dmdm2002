@@ -83,6 +83,7 @@
   - 2D 이미지 내 포디블록의 10가지의 블록 패턴들의 존재 여부를 분류하는 Multi-Label Classification 수형
   - Vision GNN (ViG) 를 사용하여 실험 진행
   - 최종 125등 / 총 461팀
+  - Git: https://github.com/dmdm2002/Pyramid-ViG_finetuning
   
 ## 자격증
 - 정보처리기사
