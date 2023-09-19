@@ -102,6 +102,15 @@
     
 - 바이오 딥러닝: 의료 데이터로 환자 진단 및 신약 개발 모델 구현하기 2기 (Learning Spoons)
   - 의료 데이터를 통한 환자 진단 및 신약 개발 모델 구현 강의 수료 (수료증 증빙)
+ 
+- 외주 
+  - 특정 키워드를 포함한 네이버 뉴스자료 crawling 후 naver cafe 에 해당 뉴스 포스팅
+  - PyQt 를 통해 GUI 생성
+  - git: https://github.com/dmdm2002/Crawling_News_V2
+ 
+- DiscordBot (개인작업)
+  - 키워드를 입력받아 youtube 에 해당 키워드를 검색후 crawling을 통해 검색 가장 상단에 있는 영상을 재생하는 노래봇
+  - git: https://github.com/dmdm2002/DiscordBot
 
 - 과외 강의 활동
   - C programming 과외 활동
