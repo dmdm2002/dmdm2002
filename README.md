@@ -4,7 +4,7 @@
 - 군필여부: 미필 (전문연구요원 대기)
 - Email (1): kjungsoo6180@gmail.com
 - Email (2): k_jungsoo@dgu.ac.kr
-- Git: github.com/dmdm2002
+- Git: https://github.com/dmdm2002
 - Blog: https://jungsoo-ai-study.tistory.com/
 
 # 사용 기술 및 언어
