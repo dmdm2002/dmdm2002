@@ -10,15 +10,11 @@
 # 사용 기술 및 언어
 - AI
   - Python (Pytorch, Tensorflow, openCV)
-  - C / C++
 
 - Data
-  - Python
-  - Selenium
-  - BeautifulSoup
+  - Python (Selenium, BeautifulSoup, PyQt)
   - SQL
   - MariaDB
-  - PyQt
  
 - 그외 언어
   - C / C++
