@@ -9,10 +9,8 @@
 
 # 사용 기술 및 언어
 - AI
-  - Python
-  - Pytorch
-  - Tensorflow
-  - openCV
+  - Python (Pytorch, Tensorflow, openCV)
+  - C / C++
 
 - Data
   - Python
