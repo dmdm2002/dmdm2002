@@ -35,7 +35,7 @@
  
 ## 논문
 - 1저자 논문
-  - LRFID-Net: A Local-Region-Based Fake-Iris Detection Network for Fake Iris Images Synthesized by a Generative Adversarial Network (Oct. 2023, Matematics, Vol.11(19), 4160; https://doi.org/10.3390/math11194160)
+  - LRFID-Net: A Local-Region-Based Fake-Iris Detection Network for Fake Iris Images Synthesized by a Generative Adversarial Network (Oct. 2023, Matematics, Vol.11(19), 4160; [https://doi.org/10.3390/math11194160](https://www.mdpi.com/2227-7390/11/19/4160))
     - Generative Adversarial Network(GAN)을 통해 생성된 위조 홍채를 탐지할 수 있는 Presentation Attack Detection(PAD) model 을 만들고자 함.
     - iris, upper and lower eyelashes 영역을 분할하여 각각의 local region에 대한 feature를 추출하고 이를 concatenate 하여 활용
     - 다양한 GAN 으로 생성된 위조 홍채 이미지에 대해 좋은 분류 성능을 가짐
