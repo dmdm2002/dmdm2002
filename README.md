@@ -72,16 +72,6 @@
   - DOTA dataset 을 사용한 model 중 iou 50 기준으로 측정한 mAP 가 81.33 인 RTMDet-R 을 사용
   - 최종 score: 0.1763 | 등수: 3등(총 39팀)
   - "3등 우수상" 수상
-
-- 2022 Samsung AI Challenge (Material Discovery) (주최: 삼성전자 종합기술원, 운영: 데이콘)
-  - 최종 86등 / 총 239팀
-    
-- 포디블록 구조 추출 AI 경진대회 (주최: 포디랜드, AI Frenz, 운영: 데이콘)
-  - 2D 이미지 기반 블록 구조 추출
-  - 2D 이미지 내 포디블록의 10가지의 블록 패턴들의 존재 여부를 분류하는 Multi-Label Classification 수형
-  - Vision GNN (ViG) 를 사용하여 실험 진행
-  - 최종 125등 / 총 461팀
-  - Git: https://github.com/dmdm2002/Pyramid-ViG_finetuning
   
 ## 자격증
 - 정보처리기사
