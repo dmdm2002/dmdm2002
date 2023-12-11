@@ -59,6 +59,7 @@
   - Data crawling: https://github.com/schoolproject2020/H2J2-DATA
   - Pose-Estimation: https://github.com/schoolproject2020/Pose-Estimation
 
+## 수상 실적
 - Fake or Real: AI 생성 이미지 판별 경진대회 (주최: 마인즈앤컴퍼니, 운영: AI CONNECT) (역할: 팀장)
   - Generative AI 가 생성한 가짜 이미지와 진짜 이미지를 분류하는 문제
   - Generative AI 를 사용하여 생성된 이미지는 frequency domain 에서의 gap 이 존재한다는 점을 이용
@@ -74,6 +75,12 @@
   - DOTA dataset 을 사용한 model 중 iou 50 기준으로 측정한 mAP 가 81.33 인 RTMDet-R 을 사용
   - 최종 score: 0.1763 | 등수: 3등(총 39팀)
   - "3등 우수상" 수상
+ 
+- 2023년도 ETRI 인공지능 OpenAPI 활용사례 공모전 (주최: 한국전차통신연구원) (역할: AI 개발 담당)
+  - ETRI를 활용한 숏폼 영상 언어 번역 및 음성화 서비스 제작
+  - Tacotron2를 이용한 TTS 서비스 개발을 담당 (한국어, 영어 모두 모델 개발 및 학습 진행)
+  - "2등 우수상 (ETRI 원장상) 수상"
+  - Git: https://github.com/link-bee/TTS
   
 ## 자격증
 - 정보처리기사
