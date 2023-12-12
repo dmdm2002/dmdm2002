@@ -49,7 +49,7 @@
     - cycle consistent and perceptual losses 를 사용, perceptual loss 를 계산할 때 mini-batch unit images 간의 authentic and imposter 를 계산하여 cycle consistent 및 discriminator losses 에 반영
 
 ## SideProject
-- 가톨릭대학교 캡스톤 디자인 (큐피트) (역할: 데이터 및 AI 모델 개발)
+- 가톨릭대학교 캡스톤 디자인 (큐피트) (역할: 데이터 수집 및 정제, AI 모델 개발)
   - 운동 자세 교정, 식단 조절, 운동복 추천을 해주는 웹페이지 제작
   - 운동에 대한 자료를 취합하여 사용자가 편하게 홈트레이닝에 대한 정보를 얻고 동기부여를 하는 웹페이지를 만들고자 함
   - 팀 구성: 프론트 2명, 백엔드 1명, 데이터 및 AI 모델 개발 1명
@@ -61,24 +61,16 @@
 
 ## 수상 실적
 - Fake or Real: AI 생성 이미지 판별 경진대회 (주최: 마인즈앤컴퍼니, 운영: AI CONNECT) (역할: 팀장)
-  - Generative AI 가 생성한 가짜 이미지와 진짜 이미지를 분류하는 문제
-  - Generative AI 를 사용하여 생성된 이미지는 frequency domain 에서의 gap 이 존재한다는 점을 이용
-  - highpass filter 를 사용하여 pre-processing 을 진행후 huggingface에서 제공하는 pre-trained swin-transformer 를 사용하여 학습 진행
-  - 최종 Public Score: 0.8623 | Private Score: 0.8620 (F1-score)
   - 등수/백분율: 22등(총 115팀), 상위 4%
   - 점수 급상승으로 "역전의 명탐정"상 수상
   - Git: https://github.com/dmdm2002/AI_CONNECT_FakeDetection
  
 - 위성영상을 활용한 컨테이너 탐지 (주최: 한국항공우주연구원(KARI), 운영: AI FACTORY) (역할: 팀원)
-  - 위성영상을 통해 컨테이너를 탐지하는 문제, 이때 object 가 rotate 되어 있기때문에 이를 고려한 학습 및 bbox 처리 작업이 필요하다.
-  - 오픈소스 rotate object detection 라이브러리인 MMRotate 의 1.0.0rc1 version 을 사용
-  - DOTA dataset 을 사용한 model 중 iou 50 기준으로 측정한 mAP 가 81.33 인 RTMDet-R 을 사용
   - 최종 score: 0.1763 | 등수: 3등(총 39팀)
   - "3등 우수상" 수상
  
-- 2023년도 ETRI 인공지능 OpenAPI 활용사례 공모전 (주최: 한국전차통신연구원) (역할: AI 개발 담당)
+- 2023년도 ETRI 인공지능 OpenAPI 활용사례 공모전 (주최: 한국전자통신연구원) (역할: AI 개발 담당)
   - ETRI를 활용한 숏폼 영상 언어 번역 및 음성화 서비스 제작
-  - Tacotron2를 이용한 TTS 서비스 개발을 담당 (한국어, 영어 모두 모델 개발 및 학습 진행)
   - "2등 우수상 (ETRI 원장상) 수상"
   - Git: https://github.com/link-bee/TTS
   
