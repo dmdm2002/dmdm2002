@@ -12,7 +12,7 @@
   - Python (Pytorch, Tensorflow, openCV)
 
 - Data
-  - Python (Selenium, BeautifulSoup, PyQt)
+  - Python (Selenium, BeautifulSoup)
   - SQL
   - MariaDB
  
