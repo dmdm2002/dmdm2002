@@ -42,7 +42,7 @@
     - iris, upper and lower eyelashes 영역을 분할하여 각각의 local region에 대한 feature를 추출하고 이를 concatenate 하여 활용
     - 다양한 GAN 으로 생성된 위조 홍채 이미지에 대해 좋은 분류 성능을 가짐
     - Git: https://github.com/dmdm2002/Iris-Spoof-Detection
-- 공동저자 논문
+- 참여 논문
   - Ocular Biometrics with Low-resolution Images Based on Ocular Super-resolution CycleGAN (Oct. 2022, Mathematics, Vol.10(20), 2818, pp 1-29, doi: https://doi.org/10.3390/math10203818)
     - 홍채인식을 통해 눈을 촬영하는 도중 발생할 수 있는 blur 에 대한 문제를 개선하고자 함
     - Generator 와 discriminator 에서 weight filters 의 수를 절반으로 감소시켜, system and memory complexity 를 감소시킴.
