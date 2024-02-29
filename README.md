@@ -7,7 +7,7 @@
 - Git: https://github.com/dmdm2002
 - Blog: https://jungsoo-ai-study.tistory.com/
 
-# 사용 기술 및 언어
+## 사용 기술 및 언어
 - AI
   - Python (Pytorch, Tensorflow, openCV)
 
