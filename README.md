@@ -6,6 +6,7 @@
 - Email (2): k_jungsoo@dgu.ac.kr
 - Git: https://github.com/dmdm2002
 - Blog: https://jungsoo-ai-study.tistory.com/
+- Notion: https://hill-curtain-bec.notion.site/Jung-Soo-Kim-9b0bd2a93ac34648b24d440ea255ee83?pvs=4
 
 ## 사용 기술 및 언어
 - AI
