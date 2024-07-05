@@ -44,10 +44,14 @@
     - 다양한 GAN 으로 생성된 위조 홍채 이미지에 대해 좋은 분류 성능을 가짐
     - Git: https://github.com/dmdm2002/Iris-Spoof-Detection
 - 참여 논문
-  - Ocular Biometrics with Low-resolution Images Based on Ocular Super-resolution CycleGAN (Oct. 2022, Mathematics, Vol.10(20), 2818, pp 1-29, doi: https://doi.org/10.3390/math10203818)
-    - 홍채인식을 통해 눈을 촬영하는 도중 발생할 수 있는 blur 에 대한 문제를 개선하고자 함
-    - Generator 와 discriminator 에서 weight filters 의 수를 절반으로 감소시켜, system and memory complexity 를 감소시킴.
-    - cycle consistent and perceptual losses 를 사용, perceptual loss 를 계산할 때 mini-batch unit images 간의 authentic and imposter 를 계산하여 cycle consistent 및 discriminator losses 에 반영
+    - Ocular Biometrics with Low-resolution Images Based on Ocular Super-resolution CycleGAN (공동저자), 
+     (Mathematics, 2023. (IF = 2.592 (2021), 상위 6.16% (JCR 2021)))
+    - Deep learning-based restoration of multi-degraded finger-vein image by non-uniform illumination and noise (공동저자), 
+     (Engineering Applications of Artificial Intelligence, 2024. (IF = 7.5 (2023), 상위 2.5% (JCR 2023))
+    - Deep Learning-Based Detection of Human Blastocyst Compartments with Fractal Dimension Estimation (공동저자), 
+     (Fractal and Fractional, 2024. (IF = 3.6 (2023), 상위 11.5% (JCR 2023))
+    - Deep learning-based restoration of nonlinear motion blurred images for plant classification using multi-spectral images (공동저자), 
+     (Applied Soft Computing, 2024. (IF = 7.2 (2023), 상위 8.6% (JCR 2023))
 
 ## SideProject
 - 가톨릭대학교 캡스톤 디자인 (큐피트) (역할: 데이터 수집 및 정제, AI 모델 개발)
