@@ -44,13 +44,13 @@
     - 다양한 GAN 으로 생성된 위조 홍채 이미지에 대해 좋은 분류 성능을 가짐
     - Git: https://github.com/dmdm2002/Iris-Spoof-Detection
 - 참여 논문
-    - Ocular Biometrics with Low-resolution Images Based on Ocular Super-resolution CycleGAN (공동저자), 
+    - Ocular Biometrics with Low-resolution Images Based on Ocular Super-resolution CycleGAN (부저자), 
      (Mathematics, 2023. (IF = 2.592 (2021), 상위 6.16% (JCR 2021)))
-    - Deep learning-based restoration of multi-degraded finger-vein image by non-uniform illumination and noise (공동저자), 
+    - Deep learning-based restoration of multi-degraded finger-vein image by non-uniform illumination and noise (부저자), 
      (Engineering Applications of Artificial Intelligence, 2024. (IF = 7.5 (2023), 상위 2.5% (JCR 2023))
-    - Deep Learning-Based Detection of Human Blastocyst Compartments with Fractal Dimension Estimation (공동저자), 
+    - Deep Learning-Based Detection of Human Blastocyst Compartments with Fractal Dimension Estimation (부저자), 
      (Fractal and Fractional, 2024. (IF = 3.6 (2023), 상위 11.5% (JCR 2023))
-    - Deep learning-based restoration of nonlinear motion blurred images for plant classification using multi-spectral images (공동저자), 
+    - Deep learning-based restoration of nonlinear motion blurred images for plant classification using multi-spectral images (부저자), 
      (Applied Soft Computing, 2024. (IF = 7.2 (2023), 상위 8.6% (JCR 2023))
 
 ## SideProject
