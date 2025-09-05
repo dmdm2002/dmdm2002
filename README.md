@@ -43,11 +43,6 @@
   10.	Deep Learning-Based Detection of Human Blastocyst Compartments with Fractal Dimension Estimation (Fractal and Fractional, April 2024)
   11.	Ocular Biometrics with Low-resolution Images Based on Ocular Super-resolution CycleGAN (Mathematics, Oct. 2022)
 
-
-
-
-
-
 ## 경력
 - (주)히어로네이션 (2020.01 ~ 2020.06) (가톨릭대학교 현장실습 인턴)
   - 쇼핑몰 데이터 크롤링을 통한 데이터 수집 및 정제
@@ -77,8 +72,7 @@
   - Git: https://github.com/link-bee/TTS
 
 ## 학력
-- 한국디지털미디어고등학교 해킹방어과 (2014.03 ~ 2017.02 졸업)
-- 남서울대학교 컴퓨터소프트웨어학과 (2017.03 ~ 2019.02 중퇴)
+- 동국대학교 대학원 전기전자공학부 멀티미디어컨텐츠 및 신호처리학과 (2021.03 ~ 석박통합과정 재학), 동국대학교 대학원 ISPR 연구실 주소: http://dm.dgu.edu/
 - 가톨릭대학교 컴퓨터정보공학부 (2019.03 ~ 2021.02 편입학, 졸업)
-- 동국대학교 대학원 전기전자공학부 멀티미디어컨텐츠 및 신호처리학과 (2021.03 ~ 석박통합과정 재학)
-- 동국대학교 대학원 ISPR 연구실 주소: http://dm.dgu.edu/
+- 남서울대학교 컴퓨터소프트웨어학과 (2017.03 ~ 2019.02 중퇴)
+- 한국디지털미디어고등학교 해킹방어과 (2014.03 ~ 2017.02 졸업)
