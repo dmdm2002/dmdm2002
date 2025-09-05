@@ -22,6 +22,31 @@
   - Java
   - Flask
   - OpenGL
+ 
+## 논문
+  ### 주저자 논문 (4편)
+  1. Stochastic yet precise: memristor crossbar arrays enabling robust in-memory VMM, hardware security, and generative AI (공동 1저자) (InfoMat, [심사중])
+  2. SKD-FDANet: Self-knowledge Distillation-based Frequency Deformable Attention Network for Iris Detection in Heterogeneous Environments (Engineering Applications of Artificial Intelligence, [심사중])
+  3. Parallel-wise Global and Local Attention Vision Transformer-based Generative Adversarial Network Using Fourier Transform Loss for Generating Fake Iris Image (Engineering Applications of Artificial Intelligence, Sep. 2025)
+  4. LRFID-Net: A Local-Region-Based Fake-Iris Detection Network for Fake Iris Images Synthesized by a Generative Adversarial Network (Mathematics, Oct. 2023)
+
+  ### 공저자 논문 (11편)
+  1.	Synthetic Generation of Finger-vein Region by Feature Fusion-based Enhanced U-transformer for Finger-vein Recognition (Information Fusion, Feb. 2026)
+  2.	A lightweight hierarchical feature fusion network for surgical instrument segmentation in internet of medical things (Information Fusion, Nov. 2025)
+  3.	FGFNet: Fourier Gated Feature-Fusion Network with Fractal Dimension Estimation for Robust Palm-Vein Spoof Detection (Fractal and Fractional, July 2025)
+  4.	Segmentation-Based Classification of Plants Robust to Various Environmental Factors in South Korea with Self-Collected Database (Horticulturae, July 2025)
+  5.	Estimation of Fractal Dimensions and Classification of Plant Disease with Complex Backgrounds (Fractal and Fractional, May 2025)
+  6.	Estimation of Fractal Dimension and Detection of Fake Finger-Vein Images for Finger-Vein Recognition (Fractal and Fractional, Oct. 2024)
+  7.	Artificial Intelligence-Based Segmentation and Classification of Plant Images with Missing Parts and Fractal Dimension Estimation (Fractal and Fractional, Oct. 2024)
+  8.	Deep learning-based restoration of nonlinear motion blurred images for plant classification using multi-spectral images (Applied Soft Computing, Sep. 2024)
+  9.	Deep learning-based restoration of multi-degraded finger-vein image by non-uniform illumination and noise (Engineering Applications of Artificial Intelligence, July 2024)
+  10.	Deep Learning-Based Detection of Human Blastocyst Compartments with Fractal Dimension Estimation (Fractal and Fractional, April 2024)
+  11.	Ocular Biometrics with Low-resolution Images Based on Ocular Super-resolution CycleGAN (Mathematics, Oct. 2022)
+
+
+
+
+
 
 ## 경력
 - (주)히어로네이션 (2020.01 ~ 2020.06) (가톨릭대학교 현장실습 인턴)
