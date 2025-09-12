@@ -30,7 +30,7 @@
   3. Parallel-wise Global and Local Attention Vision Transformer-based Generative Adversarial Network Using Fourier Transform Loss for Generating Fake Iris Image (Engineering Applications of Artificial Intelligence, Sep. 2025)
   4. LRFID-Net: A Local-Region-Based Fake-Iris Detection Network for Fake Iris Images Synthesized by a Generative Adversarial Network (Mathematics, Oct. 2023)
 
-  ### 공저자 논문 (11편)
+  ### 공저자 논문 (12편)
   1.  Attention-Driven and Hierarchical Feature Fusion Network for Crop and Weed Segmentation with Fractal Dimension Estimation (Fractal and Fractional, Sep. 2025)
   2.	Synthetic Generation of Finger-vein Region by Feature Fusion-based Enhanced U-transformer for Finger-vein Recognition (Information Fusion, Feb. 2026)
   3.	A lightweight hierarchical feature fusion network for surgical instrument segmentation in internet of medical things (Information Fusion, Nov. 2025)
@@ -66,6 +66,7 @@
 - 위성영상을 활용한 컨테이너 탐지 (주최: 한국항공우주연구원(KARI), 운영: AI FACTORY) (역할: 팀원)
   - 최종 score: 0.1763 | 등수: 3등(총 39팀)
   - "3등 우수상" 수상
+  - Git: https://github.com/dmdm2002/container_detection
  
 - 2023년도 ETRI 인공지능 OpenAPI 활용사례 공모전 (주최: 한국전자통신연구원) (역할: AI 개발 담당)
   - ETRI를 활용한 숏폼 영상 언어 번역 및 음성화 서비스 제작
