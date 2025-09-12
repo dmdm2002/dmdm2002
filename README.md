@@ -66,7 +66,7 @@
 - 위성영상을 활용한 컨테이너 탐지 (주최: 한국항공우주연구원(KARI), 운영: AI FACTORY) (역할: 팀원)
   - 최종 score: 0.1763 | 등수: 3등(총 39팀)
   - "3등 우수상" 수상
-  - Git: https://github.com/dmdm2002/container_detection
+  - Git: https://github.com/dmdm2002/ContainerDetection
  
 - 2023년도 ETRI 인공지능 OpenAPI 활용사례 공모전 (주최: 한국전자통신연구원) (역할: AI 개발 담당)
   - ETRI를 활용한 숏폼 영상 언어 번역 및 음성화 서비스 제작
