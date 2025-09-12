@@ -31,9 +31,9 @@
   4. LRFID-Net: A Local-Region-Based Fake-Iris Detection Network for Fake Iris Images Synthesized by a Generative Adversarial Network (Mathematics, Oct. 2023)
 
   ### 공저자 논문 (12편)
-  1.  Attention-Driven and Hierarchical Feature Fusion Network for Crop and Weed Segmentation with Fractal Dimension Estimation (Fractal and Fractional, Sep. 2025)
-  2.	Synthetic Generation of Finger-vein Region by Feature Fusion-based Enhanced U-transformer for Finger-vein Recognition (Information Fusion, Feb. 2026)
-  3.	A lightweight hierarchical feature fusion network for surgical instrument segmentation in internet of medical things (Information Fusion, Nov. 2025)
+  1.	Synthetic Generation of Finger-vein Region by Feature Fusion-based Enhanced U-transformer for Finger-vein Recognition (Information Fusion, Feb. 2026)
+  2.	A lightweight hierarchical feature fusion network for surgical instrument segmentation in internet of medical things (Information Fusion, Nov. 2025)
+  3.	Attention-Driven and Hierarchical Feature Fusion Network for Crop and Weed Segmentation with Fractal Dimension Estimation (Fractal and Fractional, Sep. 2025)
   4.	FGFNet: Fourier Gated Feature-Fusion Network with Fractal Dimension Estimation for Robust Palm-Vein Spoof Detection (Fractal and Fractional, July 2025)
   5.	Segmentation-Based Classification of Plants Robust to Various Environmental Factors in South Korea with Self-Collected Database (Horticulturae, July 2025)
   6.	Estimation of Fractal Dimensions and Classification of Plant Disease with Complex Backgrounds (Fractal and Fractional, May 2025)
