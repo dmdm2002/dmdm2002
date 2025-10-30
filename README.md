@@ -25,7 +25,7 @@
  
 ## 논문
   ### 주저자 논문 (4편)
-  1. Stochastic yet precise: memristor crossbar arrays enabling robust in-memory VMM, hardware security, and generative AI (공동 1저자) (InfoMat, [심사중])
+  1. Memristor Crossbar Arrays Enabling Robust In-Memory Computing, Hardware Security, and Generative Adversarial Network  (공동 1저자) (Advanced Functional Materials, [심사중])
   2. SKD-FDANet: Self-knowledge Distillation-based Frequency Deformable Attention Network for Iris Detection in Heterogeneous Environments (Engineering Applications of Artificial Intelligence, [심사중])
   3. Parallel-wise Global and Local Attention Vision Transformer-based Generative Adversarial Network Using Fourier Transform Loss for Generating Fake Iris Image (Engineering Applications of Artificial Intelligence, Sep. 2025)
   4. LRFID-Net: A Local-Region-Based Fake-Iris Detection Network for Fake Iris Images Synthesized by a Generative Adversarial Network (Mathematics, Oct. 2023)
